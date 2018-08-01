@@ -3,7 +3,7 @@ class Squeal < Formula
   homepage "https://github.com/ssanj/squeal"
   version "0.1.0.1"
   url "https://github.com/ssanj/squeal/releases/download/v#{version}/squeal-v#{version}-osx.tar.gz"
-  sha256 "75cddf6d66d6b39ed5dbc79e63f53a78507b2dbc93c5d608052573f467974b6b "
+  sha256 "d6f0c4113daec4621e22edb5d41f81815343b7d626df1b306b7bb7e715f74a56"
   head "https://github.com/ssanj/squeal.git"
 
   def install
