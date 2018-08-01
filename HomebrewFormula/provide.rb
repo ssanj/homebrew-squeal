@@ -1,4 +1,4 @@
-class Provide < Formula
+class Squeal < Formula
   desc "Test for pwned passwords and emails"
   homepage "https://github.com/ssanj/squeal"
   version "0.1.0.1"
