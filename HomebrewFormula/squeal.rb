@@ -1,9 +1,9 @@
 class Squeal < Formula
   desc "Test for pwned passwords and emails"
   homepage "https://github.com/ssanj/squeal"
-  version "0.1.0.8"
+  version "0.1.0.9"
   url "https://github.com/ssanj/squeal/releases/download/v#{version}/squeal-v#{version}-osx.tar.gz"
-  sha256 "3174aec0b0a28e4b8c8ed009a3ef76112be544778dd20338742319b7a0a05d18"
+  sha256 "c26f8f43871c10e998177110ae8f58e284092cdb6ed8da36ca96f38c46370ffe"
   head "https://github.com/ssanj/squeal.git"
 
   def install
